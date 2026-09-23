@@ -1,0 +1,21 @@
+// Colours of the illustrated part (part 1), picked to match the pixel palette.
+export const COLORS = {
+  skin: "#EFC4A2",
+  skinShade: "#D9A283",
+  skinDeep: "#B97A5E",
+  lips: "#B86A5A",
+  hair: "#3B2519",
+  hairLight: "#5E3B27",
+  brow: "#2A1A12",
+  iris: "#5B3A24",
+  line: "#2A1A12",
+  shirt: "#9A9DA3",
+  shirtShade: "#7E8187",
+  shorts: "#2B2F45",
+  blanket: "#4470B4",
+  blanketShade: "#2F5590",
+  blanketHem: "#8CB8E8",
+  watch: "#17171C",
+  silver: "#D9DCE2",
+  tattoo: "#1E1B22",
+};
